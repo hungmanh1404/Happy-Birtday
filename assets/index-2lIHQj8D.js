@@ -6711,7 +6711,7 @@ function qr() {
             E.reduce((S, A) => S + A, 0) / _ >= 27 &&
               (t(!1),
               setTimeout(() => {
-                window.location.href = "/banner.html";
+                window.location.href = "/Happy-Birtday/banner.html";
               }, 1e3));
         }, 100);
       } catch (w) {
